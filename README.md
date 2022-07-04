@@ -1,5 +1,5 @@
 # CS210 Data Science Project
-## Spotify Song & Genre Analysis, Popularity Prediction and Building a Simple Recommendation System
+## Spotify Song & Genre Analysis, Popularity Prediction and a Recommendation System
 * Manipulated the data of Spotify to analyze user habits and preferences with Python libraries (NumPy, Pandas, Matplotlib). Developed a recommendation system based on user preferences with a simple ML algorithm, within the scope of Data Science course from Sabancı University Spring'21.
 
 ### Exploratory Data Analysis
