@@ -16,3 +16,10 @@
 - Prediction of song popularity with various machine learning models
 - Efforts on hyper-parameter tuning to increase the performance of models
 - Creating a simple song recommendation system using similarity metrics and Nearest Neighbors methods
+
+### Team Members
+<ul>
+  <li><a href="https://github.com/mertkilicaslan">Mert Kılıçaslan</a></li>
+  <li><a href="https://github.com/ydelipinar">Yunus Delipınar</a></li>
+  <li><a href="https://github.com/serhanyrlmz">Serhan Yorulmaz</a></li>
+</ul>
